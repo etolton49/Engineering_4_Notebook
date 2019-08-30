@@ -10,11 +10,11 @@ hangman = ["---|\n",
            "  /","|","\\", "\n",
            "   |\n",
            "  /"," ","\\","\n"]
-
 #building array with blanks for each letter
 for i in letters:
     guess_arr.append("_")
 
+#actual game
 while True:
     #printing out hangman
     current_hangman = ""
