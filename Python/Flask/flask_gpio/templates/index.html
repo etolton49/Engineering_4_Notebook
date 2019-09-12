@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+	<title>GPIO with Flask!</title>
+	<style>
+		.button {
+			padding: 15px 32px;
+			font-size: 36px;
+			background-color: #555555
+			}
+
+		.redbutton{
+			background-color: #f44336;
+			}
+
+		.bluebutton{
+			background-color: #008CBA
+			}
+		
+		h1 {
+			font-size: 30;
+			}
+
+	</style>
+</head>
+
+<body>
+<h1>{{msg}}</h1>
+<h1>{{msg2}}</h1>
+<form method="POST">
+	<button type="submit" name="Submit" value="redled" class="button redbutton">Red LED</button>
+	<button type="submit" name="Submit" value="blueled" class="button bluebutton">Blue LED</button>
+</form>
+
+</body>
+</html>
