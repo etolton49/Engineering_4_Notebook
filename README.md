@@ -37,3 +37,8 @@ For this assignment, we had to turn two LEDs on and off with a python program. T
 ### Lessons
 During this assignment, we learned how to use the RPi.GPIO library in python to control circuits that we build.
 
+## Flask with GPIO pins
+### Objetives
+For this assignment, we had to use flask, a library that allows you to build interactive websites solely using python and some HTML. We had to build a website with two buttons that controlled two LEDs. The Python script for this can be [found here](https://github.com/etolton49/Engineering_4_Notebook/blob/master/Python/Flask/flask_gpio/app.py) and the HTML script can be [found here](https://github.com/etolton49/Engineering_4_Notebook/blob/master/Python/Flask/flask_gpio/templates/index.html)
+### Lessons
+During this assignment, we learned how to build a website with HTML, and support it with FLask. Also, we learned how to read data from the website, and use that to control GPIO pins.
