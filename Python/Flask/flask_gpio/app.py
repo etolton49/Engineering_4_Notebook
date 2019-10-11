@@ -5,11 +5,6 @@ GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(21, GPIO.OUT)
 GPIO.setup(20, GPIO.OUT)
-#declaring variables for controlling LEDS
-
-
-
-
 
 app = Flask(__name__)
 @app.route("/", methods = ["GET","POST"])
@@ -49,8 +44,6 @@ def index():
                                 blue_led = True
                                 GPIO.output(20, GPIO.HIGH)
 
-
-                        
         return render_template("index.html", msg=msg, msg2=msg2)
 
 if __name__ == "__main__":
