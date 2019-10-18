@@ -13,7 +13,7 @@ Now that we know how to use basic Python, we can create a very simple program th
 ### Lessons
 During this assignment, we learned how to do simple math with python. We will need this later for data manipulation.
 
-## Quadrativ Solver
+## Quadratic Solver
 ### Objectives
 For this assignment, we had to apply the math we learned in the previous assignment, and make a program that can solve a quadratic givin a,b, and c of a quadratic equations. The code can be [found here](https://github.com/etolton49/Engineering_4_Notebook/blob/master/Python/Quadratic_solver.py)
 ### Lessons
