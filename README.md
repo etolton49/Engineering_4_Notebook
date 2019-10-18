@@ -63,6 +63,6 @@ During this assignment, we learend how to use pi camera and take pictures with i
 
 ## Hack your stuff
 ### Objetives
-For this assigment, we had to take apart a beeper that uses a switched to be turned on and off. Next, we had to "hack it" so that we could control the beeper with the pi. We did this by adding a relay between the batteries and one side of the switch so tat we could control whether it was getting power. The contrlling code can be [found here](https://github.com/etolton49/Engineering_4_Notebook/blob/master/Python/beeper.py)
+For this assigment, we had to take apart a beeper that uses a switched to be turned on and off. Next, we had to "hack it" so that we could control the beeper with the pi. We did this by adding a relay between the batteries and one side of the switch so tat we could control whether it was getting power. The controlling code can be [found here](https://github.com/etolton49/Engineering_4_Notebook/blob/master/Python/beeper.py)
 ### Lessons
 During this assignment, we learned how use a relay in order to control normal items with the pi. We also learned how to hack the beeoer so that we could turn it on and off, which may be useful for the pi in the sky if we ever need to locate it.
