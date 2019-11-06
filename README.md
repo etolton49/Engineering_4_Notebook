@@ -33,7 +33,7 @@ During this assignment, we learned how to think through and build a game with co
 
 ## GPIO Python
 ### Objetives
-For this assignment, we had to turn two LEDs on and off with a python program. The script for using GPIO with Python can be [found here](https://github.com/etolton49/Engineering_4_Notebook/blob/master/Python/Led_Test.py)
+For this assignment, we had to turn two LEDs on and off with a python program. The script for using GPIO with Python can be [found here](https://github.com/etolton49/Engineering_4_Notebook/blob/master/Python/LED_Test.py)
 ### Lessons
 During this assignment, we learned how to use the RPi.GPIO library in python to control circuits that we build.
 
