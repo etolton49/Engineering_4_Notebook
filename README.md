@@ -70,7 +70,7 @@ During this assignment we learned how use a relay in order to control normal ite
 ### Objectives
 In this assignment we had to use a motion sensor to control a camera. When the motion sensor was tipped the camera had to turn on and record a few seconds of video.
 ### Lessons
-While working on the assignment we learnd how to use the motion sensor with the pi. We also had to realize that there is a slight delay with the sensor so it takes a few seconds after motion has stopped before the video stops recording. Click [here] for the code.
+While working on the assignment we learnd how to use the motion sensor with the pi. We also had to realize that there is a slight delay with the sensor so it takes a few seconds after motion has stopped before the video stops recording. [Click here for the code.]
 (https://github.com/etolton49/Engineering_4_Notebook/blob/master/Python/Parent_Detector.py)
 ## Push Button Stop Motion
 ### Objectives
